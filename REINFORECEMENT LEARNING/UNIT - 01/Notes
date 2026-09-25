@@ -1,0 +1,92 @@
+Unit 1
+
+1. Understanding of Generative AI (Gen-AI)
+
+Definition:
+Generative AI is a type of Artificial Intelligence that can create new content such as text, images, audio, video, and code.
+
+Key Points:
+
+Learns patterns from large datasets.
+Generates content from a prompt.
+Used for writing, coding, summarization, image generation, etc.
+Examples: ChatGPT, Gemini, DALL-E.
+
+Example:
+Prompt → "Write a story about a robot."
+Output → AI generates a new story.
+
+2. Evolution of Language Models: Rule-Based to LLM
+
+Language models evolved through different stages:
+
+Rule-Based → Statistical Models → Neural Networks → Transformers → LLMs
+
+1. Rule-Based Models
+
+Work using predefined rules.
+Cannot learn easily from data.
+Limited language understanding.
+
+2. Statistical Models
+
+Use probability to predict the next word.
+Example: N-gram models.
+
+3. Neural Network Models
+
+Learn language patterns from data.
+Examples: RNN, LSTM.
+
+4. Transformer Models
+
+Use attention mechanism.
+Better at understanding context.
+Examples: BERT, GPT.
+
+5. LLMs
+
+Large Language Models trained on huge datasets.
+Can understand and generate human-like text.
+Examples: GPT, Gemini, Claude.
+
+Conclusion:
+Language models evolved from simple rule-based systems to powerful LLMs capable of understanding and generating human-like language.
+
+3. Introduction to ChatGPT
+
+Definition:
+ChatGPT is an AI conversational system developed by OpenAI that uses large language models to understand and generate responses.
+
+Key Points:
+
+Understands natural-language prompts.
+Generates human-like responses.
+Answers questions and explains concepts.
+Can generate and analyze text and code.
+Maintains context during conversations.
+
+Basic Working:
+
+User Prompt → AI Model → Processing → Response
+
+Example:
+User: "Explain Machine Learning."
+ChatGPT → Gives an explanation of Machine Learning.
+
+4. Navigating Ethical Considerations
+
+Definition:
+Ethical considerations are the principles that help ensure AI is used safely, fairly, and responsibly.
+
+Important Issues:
+
+Bias – AI may produce unfair results due to biased data.
+Privacy – Personal information should be protected.
+Misinformation – AI can generate incorrect information.
+Copyright – AI-generated content may involve copyright issues.
+Transparency – Users should understand AI limitations.
+Accountability – Humans should be responsible for important decisions.
+Safety – AI should not be used to cause harm.
+
+
