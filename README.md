@@ -5,3 +5,4 @@
 <p>
   <b>✨ Learn • Practice • Grow 🚀</b>
 </p>
+<img width="304" height="194" alt="image" src="https://github.com/user-attachments/assets/6602186a-fd4a-4b04-8d40-206e1bcdf816" />
